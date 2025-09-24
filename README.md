@@ -1,2 +1,2 @@
 # S-JASWANTH
-“My first GitHub repository”
+"This is my first GitHub project!"
